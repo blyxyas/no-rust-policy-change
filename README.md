@@ -1,4 +1,4 @@
-[![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://docs.google.com/forms/d/e/1FAIpQLSdaM4pdWFsLJ8GHIUFIhepuq0lfTg_b0mJ-hvwPdHa4UTRaAg/viewform)
+[![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://github.com/blyxyas/no-rust-policy-change)
 
 This repository's only purpose is to give resources to learn about the [new Trademark policy change](https://twitter.com/rust_foundation/status/1644132378858729474) and warn about its effects in the Rust community.
 
@@ -94,7 +94,7 @@ Twitter, Youtube and other social media can be used in order to move more people
 - [Video by ThePrimeagen: Rust Foundation IS DOING WHAT????](https://youtu.be/gutR_LNoZw0)
 - [Video by Theo - t3.gg: This Video Is NOT Endorsed By The Rust Foundation](https://youtu.be/2oh7MoEvJ88)
 
-You can also include the banner at the top of your projects.
+You can also include the banner at the top of your projects. Sharing this repository in social media can also spread awareness.
 
 ## How to use the banner.
 
@@ -103,5 +103,5 @@ The banner is simply an SVG image ([CC0](https://creativecommons.org/publicdomai
 You can put it in the top of your `README.md` files by copy-pasting the following:
 
 ```md
-[![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://docs.google.com/forms/d/e/1FAIpQLSdaM4pdWFsLJ8GHIUFIhepuq0lfTg_b0mJ-hvwPdHa4UTRaAg/viewform)
+[![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://github.com/blyxyas/no-rust-policy-change)
 ```
