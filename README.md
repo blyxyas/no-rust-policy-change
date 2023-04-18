@@ -1,5 +1,13 @@
 [![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://github.com/blyxyas/no-rust-policy-change)
 
+## Updates
+
+Updates on the Rust Trademark Policy Change will be commited the following days talking about what the Rust Foundation is doing (both big and public, or small meetings and announcements), and other resources.
+
+---
+
+## Original README:
+
 This repository's only purpose is to give resources to learn about the [new Trademark policy change](https://twitter.com/rust_foundation/status/1644132378858729474) and warn about its effects in the Rust community.
 
 Before reading this, remember that Rust is a normal English word.
