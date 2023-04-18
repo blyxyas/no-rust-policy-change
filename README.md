@@ -1,10 +1,15 @@
 [![SAY NO TO THE TRADEMARK POLICY ](https://gist.githubusercontent.com/blyxyas/8f17fbe1cafdeff65bbe6b332d4f4723/raw/715a24df3ad74b838c6b0ff8079d3f7f9172b0db/banner.svg)](https://github.com/blyxyas/no-rust-policy-change)
 
-## Updates
+## 17 / 04 / 2023
 
-Updates on the Rust Trademark Policy Change will be commited the following days talking about what the Rust Foundation is doing (both big and public, or small meetings and announcements), and other resources.
+There was [an announcement](https://foundation.rust-lang.org/news/rust-trademark-policy-draft-revision-next-steps/) in the Rust Foundation website about the form being closed. Feedback is being reviewed and talked about.
 
----
+* The team apologized about the lack of transparency in the whole process ✔️
+  * The document says that they will provide more progress updates
+* They will address feedback ✔️
+  * It seems like there will be more cohesion between the Trademark Team and the Legal team (From the public's perspective).
+
+> Note: They will not put anything in effect before a new draft is accepted. ✔️
 
 ## Original README:
 
